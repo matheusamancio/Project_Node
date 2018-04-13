@@ -1,0 +1,27 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "This is my first project using nodeJS",
+  "main": "First_project_nodeJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusamancio/Project_Node.git"
+  },
+  "keywords": [
+    "first",
+    "nodeJS",
+    "js"
+  ],
+  "author": "Matheus Amancio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusamancio/Project_Node/issues"
+  },
+  "homepage": "https://github.com/matheusamancio/Project_Node#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
